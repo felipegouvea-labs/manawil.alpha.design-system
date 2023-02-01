@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@manawil/eslint-config/ndoe"
+  ]
+}
