@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.default = {
+exports.lineHeights = void 0;
+exports.lineHeights = {
     xs: '1.25rem',
     sm: '1.375rem',
     md: '1.5rem',

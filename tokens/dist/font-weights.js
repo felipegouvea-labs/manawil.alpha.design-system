@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.default = {
+exports.fontWeights = void 0;
+exports.fontWeights = {
     regular: 400,
     medium: 500,
     bold: 700

@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.default = {
+exports.colors = void 0;
+exports.colors = {
     'gray.100': '#FAFAFA',
     'gray.200': '#E7E7E7',
     'gray.300': '#CFCFCF',

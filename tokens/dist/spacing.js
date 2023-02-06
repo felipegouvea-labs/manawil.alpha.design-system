@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.default = {
+exports.spacings = void 0;
+exports.spacings = {
     0: '0',
     1: '0.25rem',
     2: '0.5rem',
