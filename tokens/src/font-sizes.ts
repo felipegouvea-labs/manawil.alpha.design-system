@@ -1,4 +1,4 @@
-export default {
+export const fontSizes = {
   xs: '0.75rem',
   sm: '0.875rem',
   base: '1rem',

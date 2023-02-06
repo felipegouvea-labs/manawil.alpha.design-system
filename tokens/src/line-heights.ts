@@ -1,4 +1,4 @@
-export default {
+export const lineHeights = {
   xs: '1.25rem',
   sm: '1.375rem',
   md: '1.5rem',

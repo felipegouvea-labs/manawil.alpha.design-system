@@ -1,3 +1,6 @@
+import { colors } from '@manawil-ui/tokens'
+
 export function App() {
-  return <h1>hello world</h1>
+  console.log(colors)
+  return <h1>hey</h1>
 }
