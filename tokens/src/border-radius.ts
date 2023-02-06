@@ -1,8 +1,5 @@
-export const borderRadius = {
-  px: '1px',
-  xs: '4px',
-  sm: '6px',
-  md: '8px',
-  lg: '16px',
-  full: '99999px',
-}
+export default {
+  base: '4px',
+  mid: '8px',
+  pill: '99999px'
+} as const

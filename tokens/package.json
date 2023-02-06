@@ -1,19 +1,18 @@
 {
-  "name": "@alpha-ui/tokens",
+  "name": "@manawil-ui/tokens",
   "version": "1.0.0",
-  "description": "",
-  "main": "./dist/index.js",
-  "module": "./dist/index.mjs",
-  "types": "./dist/index.d.ts",
-  "dependencies": {
+  "description": "A library of reusable design tokens for use in web projects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@manawil/eslint-config": "^1.0.0",
     "eslint": "^8.33.0",
     "typescript": "^4.9.5"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
   "license": "MIT"
 }
